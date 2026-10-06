@@ -1,0 +1,11 @@
+part_id,part_name,product_name,supplier_id,claims,cost_inr_mn
+PT003,Pump,AC 1.5T Split,S02,1166,2.88
+PT008,Thermostat,AC 2T Split,S05,1236,2.37
+PT043,Heating Element,Dishwasher 12pl,S03,600,1.45
+PT015,PCB Controller,Fridge 350L,S01,358,1.27
+PT004,Heating Element,AC 1.5T Split,S08,443,1.27
+PT020,Fan Assembly,Washer 7kg,S03,564,1.25
+PT047,Door Seal,Chimney 90cm,S01,274,0.87
+PT023,Fan Assembly,Washer 9kg,S08,438,0.86
+PT042,PCB Controller,Dishwasher 12pl,S02,749,0.81
+PT013,Pump,Fridge 350L,S07,368,0.79

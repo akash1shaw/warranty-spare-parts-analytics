@@ -1,0 +1,13 @@
+product_name,category,claims,units_sold,claim_rate_pct,cost_inr_mn
+AC 1.5T Split,Cooling,3063,49579,6.18,5.54
+AC 2T Split,Cooling,2345,44749,5.24,4.06
+Dishwasher 12pl,Kitchen,1766,22186,7.96,2.93
+Fridge 350L,Refrigeration,1453,32338,4.49,2.77
+Washer 7kg,Laundry,1449,21623,6.7,2.34
+Water Purifier UV,Water,1648,24169,6.82,2.14
+Chimney 90cm,Kitchen,1085,23189,4.68,2.09
+Washer 9kg,Laundry,1051,18489,5.68,1.83
+Water Purifier RO,Water,1279,17481,7.32,1.49
+Fridge 260L,Refrigeration,759,19186,3.96,1.38
+Microwave 25L,Kitchen,819,22620,3.62,1.07
+Microwave 30L,Kitchen,369,10996,3.36,0.45

@@ -1,0 +1,31 @@
+region,failure_cause,claims,cost_inr_mn
+East,Manufacturing defect,991,1.66
+West,Manufacturing defect,998,1.63
+South,Manufacturing defect,945,1.56
+North,Manufacturing defect,959,1.55
+Central,Manufacturing defect,862,1.42
+West,Wear and tear,796,1.3
+South,Wear and tear,750,1.28
+West,Electrical fault,758,1.26
+South,Electrical fault,752,1.23
+East,Wear and tear,746,1.21
+East,Electrical fault,726,1.2
+Central,Wear and tear,687,1.13
+North,Wear and tear,678,1.12
+North,Electrical fault,673,1.09
+Central,Electrical fault,635,1.04
+West,Improper use,416,0.72
+East,Improper use,415,0.66
+Central,Improper use,394,0.65
+North,Improper use,410,0.65
+South,Improper use,396,0.65
+West,Software/firmware,392,0.65
+East,Software/firmware,357,0.58
+South,Software/firmware,334,0.56
+Central,Software/firmware,337,0.55
+North,Software/firmware,347,0.55
+West,Transport damage,306,0.5
+East,Transport damage,261,0.45
+Central,Transport damage,265,0.43
+South,Transport damage,261,0.43
+North,Transport damage,239,0.39

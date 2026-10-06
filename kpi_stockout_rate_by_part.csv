@@ -1,0 +1,16 @@
+part_id,part_name,lead_time_days,demand_units,stockout_units,stockout_rate_pct,inventory_turns_per_year
+PT027,Fan Assembly,45,145,71,49.0,52.73
+PT013,Pump,45,368,170,46.2,192.0
+PT046,PCB Controller,45,332,153,46.1,221.33
+PT012,Display Panel,60,187,86,46.0,187.0
+PT041,Pump,60,166,76,45.8,90.55
+PT019,Pump,60,306,140,45.8,159.65
+PT039,Door Seal,60,424,193,45.5,282.67
+PT014,Sensor,45,319,144,45.1,294.46
+PT043,Heating Element,60,600,270,45.0,553.85
+PT011,Door Seal,45,202,91,45.0,71.29
+PT018,Sensor,60,293,131,44.7,390.67
+PT022,Pump,45,200,88,44.0,141.18
+PT006,Compressor,60,562,247,44.0,337.2
+PT026,Sensor,45,242,105,43.4,193.6
+PT030,Door Seal,45,82,33,40.2,57.88
