@@ -1,0 +1,13 @@
+product_id,product_name,category,unit_price,base_failure_rate
+P01,AC 1.5T Split,Cooling,38000,0.0035
+P02,AC 2T Split,Cooling,52000,0.003
+P03,Fridge 260L,Refrigeration,27000,0.0025
+P04,Fridge 350L,Refrigeration,38000,0.0028
+P05,Washer 7kg,Laundry,24000,0.004
+P06,Washer 9kg,Laundry,33000,0.0036
+P07,Microwave 25L,Kitchen,9500,0.0022
+P08,Microwave 30L,Kitchen,14000,0.002
+P09,Water Purifier RO,Water,16000,0.0045
+P10,Water Purifier UV,Water,14000,0.0042
+P11,Dishwasher 12pl,Kitchen,42000,0.005
+P12,Chimney 90cm,Kitchen,18000,0.003
